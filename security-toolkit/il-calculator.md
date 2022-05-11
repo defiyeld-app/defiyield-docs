@@ -6,7 +6,7 @@ Our [**Impermanent Loss Calculator**](https://defiyield.app/advanced-impermanent
 
 Using our IL calculator is as easy as following these quick steps:
 
-#### **Step 1 -** Enter the amount you have deposited in USD terms:
+#### Step 1 - Enter the amount you have deposited in USD terms:
 
 ![](<../.gitbook/assets/image (2).png>)
 
