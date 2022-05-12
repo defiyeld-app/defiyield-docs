@@ -4,7 +4,7 @@
 
 DeFiYield strives to bring DeFi to all, ensuring anyone can make the most out of the Web3 financial revolution, while investing confidently without the fear of getting rekt.
 
-By becoming essentially the Robinhood of DeFi, we can become bigger and better than our Web2 counterparts, due to no nationalized financial restrictions or adherence to legacy technologies.
+By becoming the Robinhood of DeFi, we can become bigger and better than our Web2 counterparts, due to no nationalized financial restrictions or adherence to legacy technologies.
 
 ## **The DeFiYield Community** <a href="#the-defiyield-community" id="the-defiyield-community"></a>
 
