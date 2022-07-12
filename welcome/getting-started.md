@@ -6,7 +6,7 @@ Our platform provides a multitude of utility in all aspects of DeFi, so it may b
 
 Through your [**address book**](../dashboard/the-defiyield-dashboard/address-book.md) or the top-left of our app, connect your wallet! We support all types of browser wallets, on a ton of different blockchains.
 
-![](<../.gitbook/assets/image (31).png>)
+![](<../.gitbook/assets/image (31) (1).png>)
 
 Alternatively, you can just tell us the address of a wallet you'd like to track through the [**address book**](../dashboard/the-defiyield-dashboard/address-book.md). You can even add multiple wallets, create unique bundles of wallets to switch to anytime.
 

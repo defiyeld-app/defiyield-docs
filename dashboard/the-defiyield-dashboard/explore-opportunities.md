@@ -6,7 +6,7 @@ Unsure where to deposit your tokens or what is available out there in the DeFi s
 
 Through our extensive protocol listings, you can search by any criteria that is most important to you. If you are a fan of a specific network, for example, feel free to search for pools on that network exclusively:
 
-![Avalanche Pools, Sorted By TVL](<../../.gitbook/assets/image (11).png>)
+![Avalanche Pools, Sorted By TVL](<../../.gitbook/assets/image (11) (1).png>)
 
 You can be as specific as you'd like. For example, you may be looking for the following:
 
@@ -14,6 +14,6 @@ You can be as specific as you'd like. For example, you may be looking for the fo
 * A TVL of at least $100M, in order to really filter only for the most trusted and utilized protocols.
 * An APR of at least 8%, to net you decent profits throughout the year.
 
-![Stablecoin Pools w/ $100M+ TVL & 8%+ APR](<../../.gitbook/assets/image (17).png>)
+![Stablecoin Pools w/ $100M+ TVL & 8%+ APR](<../../.gitbook/assets/image (17) (1).png>)
 
 You can click on any of the pools found through our app, netting you the quickest way to make use of all the opportunities available in DeFi.

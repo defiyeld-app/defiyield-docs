@@ -14,6 +14,6 @@ This can be a quick way to check that your collateral is in check. If the 'Net W
 
 Scrolling down to the page's main content, you'll see details of any of your positions in lending markets of any of the blockchains we have support for. For example, below is an Aave V2 position on Polygon:
 
-![Aave V2 Position on Polygon](<../../.gitbook/assets/image (1).png>)
+![Aave V2 Position on Polygon](<../../.gitbook/assets/image (1) (1).png>)
 
 For every one of the protocols you are interacting with, you'll be able to see all the tokens you have supplied, along with their current values and respective yields. Furthermore, any tokens you have borrowed will be displayed below alongside their interest, as well as any rewards that you can claim.

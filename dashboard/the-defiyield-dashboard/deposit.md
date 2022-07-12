@@ -6,7 +6,7 @@ DeFiYield's deposit page is where you can find all the details of any of your st
 
 If you have tokens deposited into a liquidity pool on Uniswap, for example, you'll be able to quickly see all the information you need about your deposit:
 
-![Uniswap Liquidity Pool Position on Ethereum](<../../.gitbook/assets/image (3).png>)
+![Uniswap Liquidity Pool Position on Ethereum](<../../.gitbook/assets/image (3) (1).png>)
 
 This includes all the data on the pool's underlying tokens, their prices, the yield you are getting from the pool as well as any rewards that are available to claim. Soon we'll also allow you to claim such rewards directly on our app, saving you the time taken to navigate to all the dApps you interact with on a daily basis.
 

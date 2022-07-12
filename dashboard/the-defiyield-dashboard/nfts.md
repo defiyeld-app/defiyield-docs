@@ -36,6 +36,6 @@ The 'Details' tab will provide you with any other relevant information regarding
 
 ### Sharing Your NFT
 
-![Sharing Options On Top Right](<../../.gitbook/assets/image (32).png>)
+![Sharing Options On Top Right](<../../.gitbook/assets/image (32) (1).png>)
 
 The icons on the top right of any NFT also allow you to quickly grab a link to your NFT, or instantly share it on any social media of your choosing!

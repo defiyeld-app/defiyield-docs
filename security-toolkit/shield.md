@@ -1,31 +1,53 @@
 # Shield
 
-DeFiYield's Shield is the best way to ensure that any assets in your wallet(s) are safe. This means we are always systematically scanning the smart contracts you have interacted with, any token contracts you are currently holding and any approvals you have granted to third-party contracts on any of our supported blockchains.
+DeFiYield's [**Shield**](https://defiyield.app/shield) is the best way to ensure that any assets in your wallet(s) are safe. This means we are always systematically scanning the smart contracts you have interacted with, any token contracts you are currently holding and any approvals you have granted to third-party contracts on any of our supported blockchains.
 
-## ERC-20 Token Safety
+## Approval Checks
 
-By analyzing any tokens in your wallet(s), we are able to highlight any high-risk tokens that may potentially lead to exploits, rugpulls or other unexpected outcomes with little to no action necessary on your behalf:
+Through checking smart contracts you have interacted with, we are able to advise you on any outstanding approvals you have granted to any of them, and how much risk you are undertaking by having such tokens approved.
 
-![](<../.gitbook/assets/image (15).png>)
+Approvals given to contracts that are possibly exploitable will be clearly marked and displayed in our **High Risk Contracts** section:
 
-We will clearly define what the issues we have detected are with any given ERC-20 token, as well as display your exposure to any risky contract.
+![](<../.gitbook/assets/image (31).png>)
 
-## Approvals Check
+Selecting **Revoke** on any past approval will allow you to quickly and easily set the approval to 0, disallowing the contract from transferring any tokens on your behalf:
 
-Along with our token-specific safety measures, we also are able to advise you on any outstanding approvals you have granted to any smart contract, and how much risk you are undertaking by having a token approved, based on how many of such token you have available in your wallet:
+![](../.gitbook/assets/image.png)
 
-![](<../.gitbook/assets/image (4).png>)
+{% hint style="info" %}
+Our [advanced mode](shield.md#advanced-mode) can aid you in more specifically setting desired approval amounts.
+{% endhint %}
 
-Unlimited approvals are particularly dangerous to maintain, especially when holding a large amount of the approved token in your wallet. This page will allow you to revoke any unnecessary approval with a click of a button, ensuring that your assets cannot be moved by any exploited or intentionally malicious smart contract.
+## ERC-20 Token Risks
 
-Updating any approval amount is also extremely easy through our Shield page, allowing you to quickly fix an unlimited approval to something more reasonable, or increase the approval amount if require a large transaction to go through:
+By analyzing any tokens in your wallet(s), we highlight tokens that may be vulnerable to exploits on our **High Risk Tokens** section, as well as how much exposure you have to any of these tokens:
 
-![](<../.gitbook/assets/image (10).png>)
+![](<../.gitbook/assets/image (11).png>)
+
+Selecting **Swap** will allow you to easily and safely swap the vulnerable tokens out of your wallet.
 
 ## NFT Safety
 
-Similarly to our ERC-20 token safety checks, we also provide ERC-721 (NFTs) safety checks to ensure that you have no outstanding approvals given to exchanges, trade contracts, etc.
+Similarly to our contract approval checks, the Shield page will clearly denote any NFTs (ERC-721 or ERC-1155 contracts) in your wallet(s) with outstanding approvals to exchange, trading or marketplace contracts.
 
-![](<../.gitbook/assets/image (34).png>)
+![](<../.gitbook/assets/image (29).png>)
 
-On this section you will also be able to easily revoke any approval you deem unnecessary, ensuring that your NFTs are safe in your wallet at all times.
+Through the **Revoke** option, those approvals can also be easily nullified.
+
+## Advanced Mode
+
+While by default our interface will only display some of the most relevant and high risk security concerns, activating Advanced Mode enabled you to browse through different levels of issues identified by our Shield and take a deeper dive into securing your wallet's safety.
+
+![Toggle advanced mode on the top right of the page.](<../.gitbook/assets/image (16).png>)
+
+While high risk issues may require immediate attention, low risk or simply informational remarks may be useful to be notified of and take action towards fixing if desired:
+
+![](<../.gitbook/assets/image (17).png>)
+
+You may also choose to filter through issues, in order to only disclose vulnerabilities you are personally concerned with:
+
+![](<../.gitbook/assets/image (32).png>)
+
+With advanced mode enabled, you will also have the option to alter any token approval rather than outright revoking it. This is particularly useful in other to curb unlimited allowances you have set in the past:
+
+![](<../.gitbook/assets/image (3).png>)

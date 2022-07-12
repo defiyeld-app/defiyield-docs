@@ -12,4 +12,4 @@ Through our Rekt Database, you can search for any project to find out if it has 
 By clicking on the 'Details' column next to any project, you can view a detailed summary of each occurrence, including the affected addresses, how the event took place, etc.
 {% endhint %}
 
-![](<../.gitbook/assets/image (29).png>)
+![](<../.gitbook/assets/image (29) (1).png>)
