@@ -12,7 +12,7 @@ Approvals given to contracts that are possibly exploitable will be clearly marke
 
 Selecting **Revoke** on any past approval will allow you to quickly and easily set the approval to 0, disallowing the contract from transferring any tokens on your behalf:
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (22).png>)
 
 {% hint style="info" %}
 Our [advanced mode](shield.md#advanced-mode) can aid you in more specifically setting desired approval amounts.
@@ -46,8 +46,8 @@ While high risk issues may require immediate attention, low risk or simply infor
 
 You may also choose to filter through issues, in order to only disclose vulnerabilities you are personally concerned with:
 
-![](<../.gitbook/assets/image (32).png>)
+![](<../.gitbook/assets/image (27).png>)
 
 With advanced mode enabled, you will also have the option to alter any token approval rather than outright revoking it. This is particularly useful in other to curb unlimited allowances you have set in the past:
 
-![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (35).png>)

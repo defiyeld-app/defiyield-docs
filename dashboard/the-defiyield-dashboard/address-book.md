@@ -46,4 +46,4 @@ If you don't see a wallet you want to add to your bundle there, make sure you ha
 
 Hovering over the bundle at any point will show you a gear icon, where you can click to return to the 'Manage Bundle' popup. There you can add more wallets to your bundle, remove any unwanted wallets, rename your bundle or delete it entirely.
 
-![](<../../.gitbook/assets/image (22).png>)
+![](<../../.gitbook/assets/image (22) (1).png>)

@@ -6,7 +6,7 @@ The DeFiYield Chain is still under development. Information on this page may cha
 
 The DeFiYield Chain is how we decentralize our safety tools and smart contract scanning capabilities. Join us in order to be a part of the future of safety in DeFi!
 
-![Basic DeFiYield Chain Infrastructure](<../.gitbook/assets/image (27).png>)
+![Basic DeFiYield Chain Infrastructure](<../.gitbook/assets/image (27) (1).png>)
 
 ## Roles
 
