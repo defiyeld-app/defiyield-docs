@@ -6,7 +6,7 @@ DeFiYield's [**Shield**](https://defiyield.app/shield) is the best way to ensure
 
 Through checking smart contracts you have interacted with, we are able to advise you on any outstanding approvals you have granted to any of them, and how much risk you are undertaking by having such tokens approved.
 
-Approvals given to contracts that are possibly exploitable will be clearly marked and displayed in our **High Risk Contracts** section:
+Approvals given to contracts that are possibly exploitable will be clearly marked and displayed in our **High Risk Contracts** section, along with a simple explanation of what the underlying issue is:
 
 ![](<../.gitbook/assets/image (31).png>)
 
@@ -20,7 +20,7 @@ Our [advanced mode](shield.md#advanced-mode) can aid you in more specifically se
 
 ## ERC-20 Token Risks
 
-By analyzing any tokens in your wallet(s), we highlight tokens that may be vulnerable to exploits on our **High Risk Tokens** section, as well as how much exposure you have to any of these tokens:
+By analyzing any tokens in your wallet(s), we highlight tokens that may be vulnerable to exploits on our **High Risk Tokens** section, present an explanation as to why that is the case, as well as how much exposure you have to any of these tokens:
 
 ![](<../.gitbook/assets/image (11).png>)
 
@@ -28,7 +28,7 @@ Selecting **Swap** will allow you to easily and safely swap the vulnerable token
 
 ## NFT Safety
 
-Similarly to our contract approval checks, the Shield page will clearly denote any NFTs (ERC-721 or ERC-1155 contracts) in your wallet(s) with outstanding approvals to exchange, trading or marketplace contracts.
+Similarly to our contract approval checks, the Shield page will clearly denote any NFTs (ERC-721 or ERC-1155 contracts) in your wallet(s) with outstanding approvals to exchange, trading or marketplace contracts that have been detected as vulnerable for any reason displayed.
 
 ![](<../.gitbook/assets/image (29).png>)
 
@@ -36,11 +36,17 @@ Through the **Revoke** option, those approvals can also be easily nullified.
 
 ## Advanced Mode
 
-While by default our interface will only display some of the most relevant and high risk security concerns, activating Advanced Mode enabled you to browse through different levels of issues identified by our Shield and take a deeper dive into securing your wallet's safety.
+While by default our interface will only display some of the most high risk security concerns, activating Advanced Mode enabled you to browse through different levels of issues identified by our Shield and take a deeper dive into securing your wallet's safety.
 
 ![Toggle advanced mode on the top right of the page.](<../.gitbook/assets/image (16).png>)
 
-While high risk issues may require immediate attention, low risk or simply informational remarks may be useful to be notified of and take action towards fixing if desired:
+**High Risk** issues (shown in <mark style="color:red;">red</mark>) are usually exploitable vulnerabilities in any given contract which may require immediate attention.
+
+**Medium Risk** issues (shown in <mark style="color:orange;">orange</mark>) can refer to non-vulnerability issues, but perhaps issues of an owner's control over a contract, or ways with which permissions may be used nefariously.
+
+**Low Risk** issues (shown in <mark style="color:green;">green</mark>) refer to small points of concern among a specific contract, such as loss of precision on specific calculations, lack of events emitted during important transactions, etc.
+
+**Informational** issues are anything else useful to denote, but with no particular emergency or vulnerability to patch. These can be issues such as outdated solidity versions, sub-standard code or usage of some particularly unreliable functions.
 
 ![](<../.gitbook/assets/image (17).png>)
 
