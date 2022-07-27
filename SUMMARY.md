@@ -15,6 +15,7 @@
   * [NFTs](dashboard/the-defiyield-dashboard/nfts.md)
   * [Explore Opportunities](dashboard/the-defiyield-dashboard/explore-opportunities.md)
   * [Supported Blockchains](dashboard/the-defiyield-dashboard/supported-blockchains.md)
+  * [Supported Protocols](dashboard/the-defiyield-dashboard/supported-protocols.md)
 
 ## 🛡 Security Toolkit
 
